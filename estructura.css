@@ -1,14 +1,12 @@
 #contenedor {
-  width: 700px;
+  width: 100%;
 }
 #cabecera {
   float: left;
   /* width: 150px; */
-  height: 100px;
 }
 #menu {
   float: left;
-  width: 150px;
 }
 
 #contenido {
@@ -19,5 +17,4 @@
 #pie {
   clear: both;
 }
-
 
