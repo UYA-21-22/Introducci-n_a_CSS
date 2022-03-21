@@ -2,7 +2,7 @@
   width: 100%;
 }
 #cabecera {
-  float: left;
+  /* float: left; */
   /* width: 150px; */
 }
 #menu {
@@ -17,4 +17,3 @@
 #pie {
   clear: both;
 }
-
